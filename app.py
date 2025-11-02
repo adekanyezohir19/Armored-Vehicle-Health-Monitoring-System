@@ -191,4 +191,8 @@ st.caption("AVHMS Dashboard • Developed by Adekanye Abdulzohir Oyetosade")
 # Sleep to honor refresh rate when auto streaming
 if auto_stream:
     time.sleep(refresh_seconds)
-    st.experimental_rerun()
+    import time
+
+# Auto-refresh every 5 seconds (safe alternative)
+time.sleep(5)
+st.experimental_set_query_params(updated=int(time.time()))
