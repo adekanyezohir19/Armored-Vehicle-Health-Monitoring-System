@@ -37,5 +37,5 @@ It supports the **Nigerian Army Engineering Corps** by enabling preventive maint
 ---
 
 ## 🏁 Developer
-Project developed and maintained by **Comr. Adekanye Abdulzohir Oyetosade**  
+Project developed and maintained by **Adekanye Abdulzohir Oyetosade**  
 🪖 *Innovating for Defense Efficiency and Safety.*
