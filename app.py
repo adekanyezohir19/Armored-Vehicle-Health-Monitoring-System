@@ -186,7 +186,7 @@ with right_col:
 # Footer & throttling
 # -----------------------
 st.markdown("---")
-st.caption("AVHMS Dashboard • Developed by Comr. Adekanye Abdulzohir Oyetosade")
+st.caption("AVHMS Dashboard • Developed by Adekanye Abdulzohir Oyetosade")
 
 # Sleep to honor refresh rate when auto streaming
 if auto_stream:
