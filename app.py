@@ -181,6 +181,15 @@ with right_col:
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.info("No historical data yet.")
+      # Armored Vehicle Health Monitoring System
+
+Developed by **Adekanye Abdulzohir**
+
+## 🚘 Dashboard Preview
+![Dashboard Preview](file_00000000af48624389f3093cc8afc36e.png)
+
+## 🛡️ Armored Vehicle
+![Armored Vehicle](file_000000002088620cab00446a50df68c7.png)
 
 # -----------------------
 # Footer & throttling
