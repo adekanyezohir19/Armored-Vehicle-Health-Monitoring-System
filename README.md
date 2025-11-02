@@ -1,8 +1,6 @@
 # 🛡️ Armored Vehicle Health Monitoring System (AVHMS)
 
-**Developer:** Comr. Adekanye Abdulzohir Oyetosade  
-**Affiliation:** NAOSS KWASU Chapter | Welfare II, NAOSS NHQ  
-
+**Developer:** Adekanye Abdulzohir Oyetosade  
 ---
 
 ## 🔍 Overview
