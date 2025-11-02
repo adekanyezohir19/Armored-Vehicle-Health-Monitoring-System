@@ -20,7 +20,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown("**Developed by:** Comr. Adekanye Abdulzohir Oyetosade  \nNAOSS KWASU Chapter | Welfare II, NAOSS NHQ")
+st.markdown("**Developed by:**Adekanye Abdulzohir Oyetosade")
 st.markdown("---")
 
 # -----------------------
