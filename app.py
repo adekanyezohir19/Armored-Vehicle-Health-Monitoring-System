@@ -1,3 +1,5 @@
+import os
+import streamlit as st
 # app.py
 # AVHMS Dashboard - styled to match the screenshot design (percent display for fuel)
 st.markdown("**Developed by Adekanye Abdulzohir**")
