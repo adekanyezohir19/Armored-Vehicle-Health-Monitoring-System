@@ -1,6 +1,6 @@
 # app.py
 # AVHMS Dashboard - styled to match the screenshot design (percent display for fuel)
-# Developed by:  Adekanye Abdulzohir Oyetosade
+st.markdown("**Developed by Adekanye Abdulzohir**")
 
 import streamlit as st
 import pandas as pd
